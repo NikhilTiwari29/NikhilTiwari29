@@ -1,4 +1,4 @@
-//
+
 <p align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img width="50%" align="right" alt="Github Image" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/cat.svg"/></a>
@@ -46,7 +46,7 @@
  <!----- GitHub Stats - NIKHIL  ------>
 <table>
   <tr>
-     <p align="center">
+     <p>
       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
         <img src="https://github-profile-trophy.vercel.app/?username=nikhiltiwari29" alt="nikhiltiwari29" />
        <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
