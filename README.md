@@ -47,9 +47,9 @@
 <table>
   <tr>
      <p align="center">
-      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
+      <img align="left"  src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
         <img src="https://github-profile-trophy.vercel.app/?username=nikhiltiwari29" alt="nikhiltiwari29" />
-       <img align="center" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
+       <img align="right" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
     </p>
   </tr>
 </table>
