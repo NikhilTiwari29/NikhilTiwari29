@@ -46,11 +46,10 @@
  <!----- GitHub Stats - NIKHIL  ------>
 <table>
   <tr>
-     <p align="center">
-      <img align="left"  src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
-        <img src="https://github-profile-trophy.vercel.app/?username=nikhiltiwari29" alt="nikhiltiwari29" />
-       <img align="right" src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
-    </p>
+      <p align="center">
+      <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/leftwing.gif" width="150px">
+        <img src="https://github-profile-trophy.vercel.app/?username=4bdul4ziz&title=Stars,Followers,Commit,Issues,Repositories,PullRequest&theme=discord&no- bg=true&column=3&margin-w=15&margin-h=15">
+       <img src="https://github.com/4bdul4ziz/4bdul4ziz/blob/main/images/rightwing.gif" width="150px">
   </tr>
 </table>
 <table> 
