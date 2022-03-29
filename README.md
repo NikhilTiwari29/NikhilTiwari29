@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **MongoDB,express,React,NodeJS**
+- 💬 Ask me about **MongoDB,express,ReactJS,NodeJS**
 
 - 📫 How to reach me **nikhiltiwarip29@gmail.com**
 
