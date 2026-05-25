@@ -23,7 +23,6 @@ Java Backend Engineer with 4+ years of experience building scalable backend syst
 
 * UberApp Backend – Monolithic Ride Booking Backend
 * LinkedInApp Microservices – Distributed Backend Architecture
-* DSA Practice & System Design Learning
 
 ## 📫 Connect With Me
 
