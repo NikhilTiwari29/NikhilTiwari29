@@ -103,7 +103,7 @@ JUnit 5 • Mockito • Testcontainers
 
 ## 📫 Connect With Me
 
-* LinkedIn: linkedin.com/in/nikhil-tiwari-0b6980212
+* LinkedIn: https://www.linkedin.com/in/nikhil-tiwari-0b6980212/
 * Portfolio: https://nikhil-portfolio-site-alpha.vercel.app
-* GitHub: github.com/NikhilTiwari29
+* GitHub: https://github.com/NikhilTiwari29
 * Email: [nikhiltiwarip29@gmail.com](mailto:nikhiltiwarip29@gmail.com)
