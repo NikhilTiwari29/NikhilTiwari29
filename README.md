@@ -11,30 +11,29 @@
   </picture>
 </p>
 
----
-
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a **Java Backend Engineer with 4+ years of experience** building backend systems for **banking and fintech** domains.
 
-My primary focus is **Java, Spring Boot, Microservices, Kafka, Apache Camel, SQL, and AWS**. I have experience designing REST APIs, implementing event-driven workflows, integrating with Core Banking Systems (CBS), and working with distributed backend systems.
+My primary focus is **Java, Spring Boot, Microservices, Kafka, Apache Camel, SQL, and AWS**. I have experience designing REST APIs, implementing event-driven workflows, integrating with Core Banking Systems (CBS), and building distributed backend systems.
 
 ```text
 Java Backend Engineer
         │
-        ├── Spring Boot & Microservices
+        ├── Java & Spring Boot
+        ├── Microservices & Distributed Systems
         ├── Kafka & Event-Driven Architecture
         ├── Apache Camel & Enterprise Integration
-        ├── REST APIs & Distributed Systems
+        ├── REST APIs & Spring Security
         ├── SQL / JPA / Hibernate
         └── Docker & AWS
 ```
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### Software Engineer — Java Backend
+## Software Engineer — Java Backend
 
 **Vayana Networks** · Apr 2022 – Present
 
@@ -42,30 +41,30 @@ Working on a **Loan Management System (LMS)** used by banking clients for loan l
 
 * Developed and enhanced **15+ REST APIs** for banking workflows.
 * Built **Kafka + Apache Camel integration pipelines** for asynchronous loan disbursement processing.
-* Integrated LMS workflows with multiple **Core Banking Systems (CBS)** having different API formats and integration requirements.
-* Implemented asynchronous processing to handle large-volume banking operations without blocking client requests.
+* Integrated LMS workflows with multiple **Core Banking Systems (CBS)** with different API formats and integration requirements.
+* Implemented asynchronous processing for large-volume banking operations without blocking client requests.
 * Optimized **MSSQL queries**, improving API response times by approximately **30%**.
 * Implemented **JWT-based authentication and role-based authorization** for secured APIs.
 * Worked with Kafka-based event processing and service-to-service communication.
 * Contributed to **CI/CD automation**, reducing release effort by approximately **40%**.
-* Worked across business workflows including **loan onboarding, transactions, disbursement, repayment, UTR processing, and reporting**.
+* Worked across workflows including **loan onboarding, transactions, disbursement, repayment, UTR processing, and reporting**.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### ✈️ TravelSphere
+## ✈️ TravelSphere
 
-**Microservices-based Airline Reservation Platform**
+### Microservices-based Airline Reservation Platform
 
 A production-oriented airline reservation system inspired by **GDS-style architecture**, designed around independently deployable domain services.
 
-#### Highlights
+### Highlights
 
 * Designed separate services for **locations, users, airlines, aircraft, flights, pricing, seats, and bookings**.
 * Implemented **database-per-service** architecture using MySQL.
-* Implemented Kafka-based asynchronous communication between flight operations and seat management.
-* Designed runtime seat inventory using:
+* Implemented **Kafka-based asynchronous communication** between flight operations and seat management services.
+* Designed runtime seat inventory using the hierarchy:
 
 ```text
 Aircraft
@@ -93,9 +92,9 @@ Aircraft
 
 ---
 
-### 💼 LinkedInApp
+## 💼 LinkedInApp
 
-**Distributed Social Networking Backend**
+### Distributed Social Networking Backend
 
 * Built **7 independently deployable microservices** using Spring Boot and Spring Cloud.
 * Implemented **Kafka-based event-driven communication**.
@@ -110,9 +109,9 @@ Aircraft
 
 ---
 
-### 🚗 UberApp
+## 🚗 UberApp
 
-**Production-Oriented Ride Booking Backend**
+### Production-Oriented Ride Booking Backend
 
 * Implemented complete ride lifecycle management.
 * Built **PostGIS-powered spatial queries** for driver matching.
@@ -128,7 +127,7 @@ Aircraft
 
 ---
 
-## 🧰 Technical Skills
+# 🧰 Technical Skills
 
 ### Backend
 
@@ -160,7 +159,7 @@ Aircraft
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Activity
 
 <p align="center">
   <picture>
@@ -177,7 +176,7 @@ Aircraft
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 * Advanced System Design
 * Distributed Systems
@@ -187,20 +186,32 @@ Aircraft
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/NikhilTiwari29">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
   </a>
   <a href="https://www.linkedin.com/in/nikhil-tiwari-0b6980212/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://nikhil-portfolio-site-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="mailto:nikhiltiwarip29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
