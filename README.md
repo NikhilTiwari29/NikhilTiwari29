@@ -23,11 +23,20 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nikhiltiwari29&theme=github-dark&website=https%3A%2F%2Fnikhil-portfolio-site-alpha.vercel.app%2F&x=NikhiltiwariP29&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=nikhiltiwari29&theme=github-dark&website=https%3A%2F%2Fnikhil-portfolio-site-alpha.vercel.app%2F&x=NikhiltiwariP29" alt="nikhiltiwari29 social links" /></picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/social?username=nikhiltiwari29&theme=github-dark&website=https%3A%2F%2Fnikhil-portfolio-site-alpha.vercel.app%2F&x=NikhiltiwariP29&mode=light"
+    />
+    <img
+      src="https://www.gitskins.com/api/section/social?username=nikhiltiwari29&theme=github-dark&website=https%3A%2F%2Fnikhil-portfolio-site-alpha.vercel.app%2F&x=NikhiltiwariP29"
+      alt="nikhiltiwari29 social links"
+    />
+  </picture>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhiltiwari29) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhiltiwariP29) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikhil-portfolio-site-alpha.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhiltiwari29)
 
----
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhiltiwariP29)
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikhil-portfolio-site-alpha.vercel.app/)
