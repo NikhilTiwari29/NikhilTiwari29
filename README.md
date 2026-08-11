@@ -23,20 +23,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://www.gitskins.com/api/section/social?username=nikhiltiwari29&theme=github-dark&website=https%3A%2F%2Fnikhil-portfolio-site-alpha.vercel.app%2F&x=NikhiltiwariP29&mode=light"
-    />
-    <img
-      src="https://www.gitskins.com/api/section/social?username=nikhiltiwari29&theme=github-dark&website=https%3A%2F%2Fnikhil-portfolio-site-alpha.vercel.app%2F&x=NikhiltiwariP29"
-      alt="nikhiltiwari29 social links"
-    />
-  </picture>
+  <a href="https://github.com/nikhiltiwari29">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://nikhil-portfolio-site-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/NikhiltiwariP29">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhiltiwari29)
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhiltiwariP29)
-
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikhil-portfolio-site-alpha.vercel.app/)
